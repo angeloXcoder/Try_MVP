@@ -1,0 +1,6 @@
+framework module Pods_Try_MVP {
+  umbrella header "Pods-Try_MVP-umbrella.h"
+
+  export *
+  module * { export * }
+}
